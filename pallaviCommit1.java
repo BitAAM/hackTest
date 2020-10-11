@@ -15,7 +15,7 @@ class pallaviCommit1{
 		System.out.println("My first java program.");
 		System.out.println("Enter +ve no to check for even -->");
 		int a = sn.nextInt();
-		findEven(a);
+		findEven(a);//call findEven function
 	}
 
 }
