@@ -10,7 +10,7 @@ class pallaviCommit1{
 	
 	}
 	
-	public static void main(String args[]){
+	public static void main(String args[]){ // this is driver function
 		Scanner sn = new Scanner(System.in);
 		System.out.println("My first java program.");
 		System.out.println("Enter +ve no to check for even -->");
