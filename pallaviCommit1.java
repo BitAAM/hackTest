@@ -5,7 +5,7 @@ class pallaviCommit1{
 		if(n%2==0){
 			System.out.println("No is even!");
 		}else{
-			System.out.println("No is odd!");
+			System.out.println("No is odd!");//odd find
 		}
 	
 	}
